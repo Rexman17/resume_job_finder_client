@@ -1,5 +1,5 @@
 import React from 'react'
-
+import Results from './Results'
 
 class ResInputForm extends React.Component {
 
@@ -86,6 +86,8 @@ class ResInputForm extends React.Component {
                 </li>
               </ol>
             </form>
+
+            <Results />
 
       </div>
     )
