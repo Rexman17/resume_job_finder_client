@@ -12,6 +12,9 @@ class Splash extends React.Component {
           <li>Input your 5 top skills that most directly relate to the job that you want.</li>
           <li>We analyze the jobs that are ACTIVELY HIRING that you will most likely receive interviews for.</li>
         </ul>
+
+        <button>Log In</button>
+        <button>Sign Up</button>
       </div>
     )
   }
